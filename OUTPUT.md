@@ -1,5 +1,38 @@
 ## 📊 Sample Output
 
 ### Engine ON State:
-![Engine ON State](![11](https://github.com/user-attachments/assets/f421706d-31e9-4784-bff9-cac27a431435)
-)
+WELCOME! ^_^
+
+a. Turn on the vehicle engine
+b. Quit the system
+
+User selects 'a'
+a. Turn off the engine
+b. Set the traffic light color
+c. Set the room temperature
+d. Set the engine temperature
+
+b
+Enter the traffic light color (G-O-R)
+
+G
+
+i. Engine state: ON
+
+ii. AC: OFF
+
+iii. Vehicle speed: 100 km/hr
+
+iv. Room temperature: 25°C
+
+v. Engine controller: OFF
+
+vi. Engine temperature: 120°C
+
+##ِAnd So On
+
+### Key Features Demonstrated:
+- 🚦 Traffic light response (G/O/R)
+- 🌡️ Automatic temperature control
+- ⚡ Real-time system monitoring
+- 🛑 Safety shutdown capability
